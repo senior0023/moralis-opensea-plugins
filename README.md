@@ -6,20 +6,20 @@ This repository contains the code for the [Moralis OpenSea Youtube tutorial](htt
 
 ## Table of Contents
 
-- [Deployment](https://github.com/YosephKS/moralis-opensea-plugins#deployment)
-- [Branches](https://github.com/YosephKS/moralis-opensea-plugins#branches)
-- [Pre-requisites](https://github.com/YosephKS/moralis-opensea-plugins#pre-requisites)
-	- [Node.js](https://github.com/YosephKS/moralis-opensea-plugins#1-nodejs)
-	- [NPM/Yarn](https://github.com/YosephKS/moralis-opensea-plugins#2-npmyarn)
-	- [Moralis Account](https://github.com/YosephKS/moralis-opensea-plugins#3-moralis-account)
-- [Getting Started](https://github.com/YosephKS/moralis-opensea-plugins#getting-started)
-	- [Clone Project](https://github.com/YosephKS/moralis-opensea-plugins#1-clone-project)
-	- [Install Dependencies](https://github.com/YosephKS/moralis-opensea-plugins#2-install-dependencies)
-	- [Add Moralis `appId` and `serverUrl`](https://github.com/YosephKS/moralis-opensea-plugins#3-add-moralis-appid-and-serverurl)
-	- [Run The Project](https://github.com/YosephKS/moralis-opensea-plugins#3-add-moralis-appid-and-serverurl)
-- [Production](https://github.com/YosephKS/moralis-opensea-plugins#3-production)
-- [Related Repository](https://github.com/YosephKS/moralis-opensea-plugins#related-repository)
-- [License](https://github.com/YosephKS/moralis-opensea-plugins#license)
+- [Deployment](https://github.com/senior0023/moralis-opensea-plugins#deployment)
+- [Branches](https://github.com/senior0023/moralis-opensea-plugins#branches)
+- [Pre-requisites](https://github.com/senior0023/moralis-opensea-plugins#pre-requisites)
+	- [Node.js](https://github.com/senior0023/moralis-opensea-plugins#1-nodejs)
+	- [NPM/Yarn](https://github.com/senior0023/moralis-opensea-plugins#2-npmyarn)
+	- [Moralis Account](https://github.com/senior0023/moralis-opensea-plugins#3-moralis-account)
+- [Getting Started](https://github.com/senior0023/moralis-opensea-plugins#getting-started)
+	- [Clone Project](https://github.com/senior0023/moralis-opensea-plugins#1-clone-project)
+	- [Install Dependencies](https://github.com/senior0023/moralis-opensea-plugins#2-install-dependencies)
+	- [Add Moralis `appId` and `serverUrl`](https://github.com/senior0023/moralis-opensea-plugins#3-add-moralis-appid-and-serverurl)
+	- [Run The Project](https://github.com/senior0023/moralis-opensea-plugins#3-add-moralis-appid-and-serverurl)
+- [Production](https://github.com/senior0023/moralis-opensea-plugins#3-production)
+- [Related Repository](https://github.com/senior0023/moralis-opensea-plugins#related-repository)
+- [License](https://github.com/senior0023/moralis-opensea-plugins#license)
 
 ---
 
